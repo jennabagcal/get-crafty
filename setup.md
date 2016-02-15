@@ -28,4 +28,4 @@ Now your computer should be setup with:
 
 To continue:
 
-Follow instrcutions from [configure git](https://github.com/jueyang/know-your-tools/blob/master/0-setup.md#set-up-git) and on.
+Follow instrcutions from [configure git](https://github.com/jueyang/know-your-tools/blob/master/0-setup.md#configure-git).
